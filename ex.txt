@@ -1,0 +1,7 @@
+A client
+B serveur
+c logiciel serveur web
+saisie d une url
+connexion du client sur le serveur et la demande d une page web
+serveur web cherche la page web demandé
+envoi de la page web
